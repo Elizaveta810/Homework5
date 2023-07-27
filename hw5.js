@@ -122,4 +122,4 @@ function seasons () {
     alert ('Вы ввели неподходящее значение');
   }
 }
-seasons ()
+seasons()
